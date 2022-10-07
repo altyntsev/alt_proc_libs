@@ -1,1 +1,3 @@
-# alt_proc_libs
+alt_processing libs
+
+[Docs] (https://altyntsev.github.io/)
